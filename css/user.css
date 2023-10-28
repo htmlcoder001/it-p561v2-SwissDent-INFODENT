@@ -1,0 +1,2979 @@
+@charset "UTF-8";
+.path-user #block-b5infodent-breadcrumbs {
+  display: none;
+}
+.path-user .navigazione-messaggi-annunci {
+  max-width: 750px;
+  margin: 0px auto;
+  display: flex;
+  align-items: center;
+}
+.path-user .navigazione-messaggi-annunci a {
+  color: #333333;
+  font-size: 12.8px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 15px;
+  text-transform: uppercase;
+  padding: 0;
+  text-decoration: none;
+  border: none;
+  white-space: nowrap;
+  text-align: center;
+}
+.path-user .navigazione-messaggi-annunci .link-annunci {
+  color: #3BAA35;
+  margin-left: 5%;
+  text-decoration: underline 2px;
+  text-underline-offset: 2px;
+}
+.path-user .navigazione-messaggi-annunci .link-crea {
+  margin-left: auto;
+  color: #3BAA35;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: -0.39px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+}
+.path-user .navigazione-messaggi-annunci .link-crea span {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  background-color: #3baa35;
+  color: white;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+  margin-left: 7px;
+}
+.path-user #block-b5infodent-local-tasks {
+  margin-bottom: 50px;
+}
+.path-user #block-b5infodent-local-tasks .tabs .tabs-primary {
+  margin: unset;
+}
+.path-user #block-b5infodent-local-tasks .tabs .tabs-primary ul {
+  border: none;
+  align-items: center;
+}
+@media screen and (max-width: 768px) {
+  .path-user #block-b5infodent-local-tasks .tabs .tabs-primary ul {
+    flex-direction: row !important;
+    justify-content: space-between;
+  }
+  .path-user #block-b5infodent-local-tasks .tabs .tabs-primary ul::after {
+    display: none;
+  }
+}
+.path-user #block-b5infodent-local-tasks .tabs .tabs-primary ul .nav-link.active a {
+  color: #3BAA35;
+  font-size: 12.8px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 15px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.path-user #block-b5infodent-local-tasks .tabs .tabs-primary ul li {
+  padding: 0;
+  border: 0;
+  max-width: 20%;
+  width: 100%;
+  text-align: center;
+}
+.path-user #block-b5infodent-local-tasks .tabs .tabs-primary ul li a {
+  color: #333333;
+  font-size: 12.8px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 15px;
+  text-transform: uppercase;
+  padding: 0;
+  text-decoration: none;
+  border: none;
+  white-space: nowrap;
+  text-align: center;
+}
+.path-user #block-b5infodent-local-tasks .tabs .tabs-primary ul li a p {
+  margin: 0;
+  margin-left: auto;
+  display: flex;
+  white-space: nowrap;
+}
+.path-user #block-b5infodent-local-tasks .tabs .tabs-primary ul li a p.button-add-announce {
+  color: #3BAA35;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: -0.39px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+}
+.path-user #block-b5infodent-local-tasks .tabs .tabs-primary ul li a p.button-add-announce span {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  background-color: #3baa35;
+  color: white;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+  margin-left: 7px;
+}
+.path-user #block-b5infodent-local-tasks .tabs .tabs-primary ul li:last-child {
+  margin-right: 0;
+  margin-left: auto;
+}
+.path-user #block-b5infodent-local-tasks .tabs .tabs-secondary {
+  display: flex;
+  max-width: 751px;
+  width: 100%;
+  margin: 50px auto 35px;
+}
+@media screen and (max-width: 767px) {
+  .path-user #block-b5infodent-local-tasks .tabs .tabs-secondary {
+    justify-content: center;
+    margin: 20px 0 0;
+  }
+}
+.path-user #block-b5infodent-local-tasks .tabs .tabs-secondary ul {
+  border: none;
+  align-items: baseline;
+}
+@media screen and (max-width: 767px) {
+  .path-user #block-b5infodent-local-tasks .tabs .tabs-secondary ul {
+    display: flex;
+    align-items: center;
+  }
+}
+.path-user #block-b5infodent-local-tasks .tabs .tabs-secondary ul li {
+  padding: 0;
+  border: none;
+}
+@media screen and (max-width: 767px) {
+  .path-user #block-b5infodent-local-tasks .tabs .tabs-secondary ul li {
+    margin-bottom: 10px;
+  }
+}
+.path-user #block-b5infodent-local-tasks .tabs .tabs-secondary ul li:not(:first-child) {
+  margin-left: 35px;
+}
+@media screen and (max-width: 767px) {
+  .path-user #block-b5infodent-local-tasks .tabs .tabs-secondary ul li:not(:first-child) {
+    margin: 0;
+  }
+}
+.path-user #block-b5infodent-local-tasks .tabs .tabs-secondary ul li a {
+  color: #007B7C;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: -0.45px;
+  line-height: 19px;
+  text-align: center;
+  text-underline-offset: 6.85px;
+  text-decoration-thickness: 2px;
+  padding: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content {
+  padding: unset !important;
+  position: relative;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content {
+  margin-bottom: 140px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content article {
+  display: none;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container {
+  display: flex;
+  justify-content: center;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci {
+  max-width: 751px;
+  width: 100%;
+}
+@media screen and (max-width: 575px) {
+  .path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci {
+    padding: 0 15px;
+  }
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul {
+  list-style-type: none;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li {
+  margin: 0;
+  margin-bottom: 18.5px;
+  border-top: 1px solid #D7D7D7;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-status {
+  display: inline-block;
+  margin-right: 27px;
+  margin-top: 21px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-status .field-content {
+  color: #FFFFFF;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+  background-color: #3BAA35;
+  padding: 3px 7px 3px 7px;
+  text-transform: uppercase;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-field-tipologia-annuncio {
+  display: inline-block;
+  margin-right: 42px;
+  margin-top: 23px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-field-tipologia-annuncio .field-content {
+  color: #3BAA35;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-field-categoria-annuncio {
+  display: none;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-field-luogo-annuncio-1 {
+  display: inline-block;
+  margin-top: 23px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-field-luogo-annuncio-1 .field-content {
+  color: #333333;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-field-luogo-annuncio-1 .field-content::before {
+  margin-right: 3px;
+  content: "\f3c5";
+  font-family: "FontAwesome", sans-serif;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-created {
+  margin-bottom: 10px;
+  margin-top: 11.08px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-created .field-content {
+  color: #333333;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 14px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-title .field-content a {
+  color: #333333;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 24px;
+  text-decoration: none;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-body {
+  margin-top: 11px;
+  margin-bottom: 13.5px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-body .field-content p {
+  color: #616E76;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-nothing {
+  display: inline-block;
+  margin-right: 39px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-nothing .field-content a {
+  color: #3BAA35;
+  font-size: 13px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-delete-node {
+  display: inline-block;
+  margin-right: 47.5px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-delete-node .field-content a {
+  color: #C80D0D;
+  font-family: Roboto, sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: -0.36px;
+  line-height: 15px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-edit-node {
+  display: inline-block;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-edit-node .field-content a {
+  color: #686868;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: -0.36px;
+  line-height: 15px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-nid {
+  display: none;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-field-tipo-di-proprietario-annun {
+  display: inline-block;
+  margin-right: 27px;
+  margin-top: 21px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-field-tipo-di-proprietario-annun .field-content {
+  color: #FFFFFF;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+  background-color: #3BAA35;
+  padding: 3px 7px 3px 7px;
+  text-transform: uppercase;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-field-luogo-annuncio {
+  display: inline-block;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-field-luogo-annuncio .field-content {
+  color: #333333;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-field-luogo-annuncio .field-content::before {
+  margin-right: 3px;
+  content: "\f3c5";
+  font-family: "FontAwesome", sans-serif;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-view-node {
+  display: inline-block;
+  margin-right: 30px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-lista-degli-annunci .view-content .item-list ul li .views-field-view-node a {
+  color: #3BAA35;
+  font-size: 13px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci {
+  max-width: 743px;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-header {
+  margin-bottom: 28px;
+  margin-top: 96px;
+  border-top: 1px solid #D7D7D7;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-header .announce-info-wrapper {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 28px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-header .announce-info-wrapper .announce-publish {
+  margin-right: 34px;
+  color: #FFFFFF;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+  background-color: #3BAA35;
+  padding: 3px 7px 3px 7px;
+  text-transform: uppercase;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-header .announce-info-wrapper .announce-category {
+  margin-right: 29px;
+  color: #3BAA35;
+  font-family: Roboto, sans-serif;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-header .announce-info-wrapper .announce-location {
+  color: #333333;
+  font-family: Roboto, sans-serif;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-header .announce-info-wrapper .announce-location::before {
+  content: "\f3c5";
+  font-family: "FontAwesome", sans-serif;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-header .announce-date {
+  margin-top: 11.08px;
+  margin-bottom: 10px;
+  color: #333333;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 14px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-header .announce-title {
+  color: #333333;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content > .views-row:nth-child(odd) {
+  background-color: rgba(0, 123, 124, 0.0588235294);
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .views-row {
+  margin-bottom: 16px;
+  display: flex;
+  position: relative;
+  padding: 22px 15px 0;
+}
+@media screen and (max-width: 991px) {
+  .path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .views-row {
+    flex-direction: column;
+  }
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .views-row .views-field-fieldset-1 {
+  margin-bottom: 20px;
+  padding: 0 0 0 15px;
+  width: calc(100% - 64px);
+}
+@media screen and (max-width: 991px) {
+  .path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .views-row .views-field-fieldset-1 {
+    width: unset;
+  }
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .views-row .views-field-fieldset-1 .field-content .views-field-field-nome .field-content {
+  color: #333333;
+  font-family: Roboto, sans-serif;
+  font-size: 17.71px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .views-row .views-field-fieldset-1 .field-content .views-field-field-cognome .field-content {
+  color: #333333;
+  font-family: Roboto, sans-serif;
+  font-size: 17.71px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .views-row .views-field-fieldset-1 .field-content .views-field-created {
+  margin-top: 2.83px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .views-row .views-field-fieldset-1 .field-content .views-field-created .field-content {
+  color: #929292;
+  font-size: 17.71px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .views-row .views-field-fieldset-1 .field-content .views-field-comment-body {
+  margin-top: 15px;
+  margin-bottom: 15.67px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .views-row .views-field-fieldset-1 .field-content .views-field-comment-body .field-content p {
+  color: #929292;
+  font-size: 17.71px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .views-row .views-field-fieldset-1 .field-content .views-field-views-conditional-field-1 {
+  display: inline-block;
+  margin-left: 30px;
+}
+@media screen and (max-width: 991px) {
+  .path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .views-row .views-field-fieldset-1 .field-content .views-field-views-conditional-field-1 {
+    margin-left: 0;
+  }
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .views-row .views-field-fieldset-1 .field-content .views-field-views-conditional-field-1 .field-content a {
+  color: #3BAA35;
+  font-size: 17.71px;
+  letter-spacing: 0;
+  line-height: 20px;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .views-row .views-field-fieldset-1 .field-content .views-field-delete-comment {
+  display: inline-block;
+  position: relative;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .views-row .views-field-fieldset-1 .field-content .views-field-delete-comment .field-content a {
+  color: #C80D0D;
+  font-family: Roboto, sans-serif;
+  font-size: 17.71px;
+  letter-spacing: 0;
+  line-height: 20px;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .wrap {
+  flex-direction: column;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .wrap .views-field-views-conditional-field-2 {
+  display: inline-flex;
+  align-items: end;
+  margin-bottom: 21px;
+  position: absolute;
+  bottom: 0px;
+  left: 230px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .wrap .views-field-views-conditional-field-2 .field-content .flag-segnala-abuso a {
+  color: #007AC0;
+  font-size: 17.71px;
+  letter-spacing: 0;
+  line-height: 20px;
+  text-decoration: none;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .wrap div[class^=deep-], .path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .wrap div[class*=deep-] {
+  background-color: unset;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .wrap div[class^=deep-]:not(.deep-0), .path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .wrap div[class*=deep-]:not(.deep-0) {
+  display: flex;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .wrap div[class^=deep-]:not(.deep-0)::before, .path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .wrap div[class*=deep-]:not(.deep-0)::before {
+  height: 37px;
+  width: 22.42px;
+  content: "\f3e5";
+  font-family: "FontAwesome", sans-serif;
+  transform: rotateX(521deg) rotateY(-139deg);
+  opacity: 0.3;
+  font-size: 35px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .wrap .deep-0 .views-field-fieldset {
+  display: inline-block;
+  margin-top: 14px;
+  margin-left: 32px;
+}
+@media screen and (max-width: 991px) {
+  .path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .wrap .deep-0 .views-field-fieldset {
+    margin-left: 0;
+  }
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .wrap .deep-0 .views-field-fieldset .field-content .views-field-views-conditional-field .field-content img {
+  max-width: 61.95px;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .wrap .deep-0 .views-field-fieldset-1 {
+  margin-top: 21.5px;
+}
+@media screen and (max-width: 991px) {
+  .path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .wrap .deep-0 .views-field-fieldset-1 {
+    margin-left: 0;
+  }
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .deep-0 .views-field-fieldset {
+  width: 62px;
+  border-radius: 50%;
+  overflow: hidden;
+  height: 62px;
+}
+@media screen and (max-width: 991px) {
+  .path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .deep-0 .views-field-fieldset {
+    margin-left: 0;
+  }
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .deep-0 .views-field-fieldset .field-content .views-field-views-conditional-field .field-content img {
+  max-width: 61.95px;
+  width: 100%;
+}
+@media screen and (max-width: 991px) {
+  .path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .deep-0 .views-field-fieldset-1 {
+    margin-left: 0;
+  }
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .deep-0 .views-field-views-conditional-field-2 {
+  display: inline-flex;
+  align-items: end;
+  margin-bottom: 21px;
+  position: absolute;
+  bottom: 0px;
+  left: 300px;
+}
+@media screen and (max-width: 991px) {
+  .path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .deep-0 .views-field-views-conditional-field-2 {
+    position: unset;
+    margin-left: 15px;
+  }
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content .views-element-container .view-id-messaggi_annunci .view-content .deep-0 .views-field-views-conditional-field-2 .field-content .flag-segnala-abuso a {
+  color: #007AC0;
+  font-family: Roboto, sans-serif;
+  font-size: 15.71px;
+  letter-spacing: 0;
+  line-height: 20px;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-dashboard-utente-block-1-2 {
+  max-width: 750px;
+  width: 100%;
+  margin: 0 auto;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-dashboard-utente-block-1-2 .view-id-dashboard_utente .view-header {
+  display: flex;
+  justify-content: space-between;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-dashboard-utente-block-1-2 .view-id-dashboard_utente .view-header h2 {
+  margin: 0;
+  color: #007B7C;
+  font-family: Roboto, sans-serif;
+  font-size: 26px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-dashboard-utente-block-1-2 .view-id-dashboard_utente .view-header a {
+  margin: 0;
+  border-radius: 25px;
+  border-color: #3BAA35;
+  background-color: #3BAA35;
+  color: #FFFFFF;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+  padding: 15px 34.84px 16px 35.88px;
+  text-transform: uppercase;
+  border: 1px solid transparent;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-dashboard-utente-block-1-2 .view-id-dashboard_utente .view-header a:hover {
+  background-color: white;
+  border-radius: 25px;
+  border: 1px solid #3BAA35;
+  color: #3BAA35;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-dashboard-utente-block-1-2 .view-id-dashboard_utente .view-content .views-row {
+  border-bottom: 1px solid #D7D7D7;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-dashboard-utente-block-1-2 .view-id-dashboard_utente .view-content .views-row .views-field-field-cognome {
+  display: flex;
+  margin-bottom: 12px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-dashboard-utente-block-1-2 .view-id-dashboard_utente .view-content .views-row .views-field-field-cognome .views-label-field-cognome {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-dashboard-utente-block-1-2 .view-id-dashboard_utente .view-content .views-row .views-field-field-cognome .field-content {
+  max-width: 200px;
+  width: 100%;
+  margin-left: 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-dashboard-utente-block-1-2 .view-id-dashboard_utente .view-content .views-row .views-field-field-nome {
+  display: flex;
+  margin-bottom: 12px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-dashboard-utente-block-1-2 .view-id-dashboard_utente .view-content .views-row .views-field-field-nome .views-label-field-nome {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-dashboard-utente-block-1-2 .view-id-dashboard_utente .view-content .views-row .views-field-field-nome .field-content {
+  max-width: 200px;
+  width: 100%;
+  margin-left: 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-dashboard-utente-block-1-2 .view-id-dashboard_utente .view-content .views-row .views-field-user-picture {
+  margin-bottom: 36px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-dashboard-utente-block-2-2 {
+  max-width: 750px;
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 35px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-dashboard-utente-block-2-2 .view-id-dashboard_utente .view-content .views-row {
+  border-bottom: 1px solid #D7D7D7;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-dashboard-utente-block-2-2 .view-id-dashboard_utente .view-content .views-row .views-field-nothing .field-content {
+  display: flex;
+  justify-content: space-between;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-dashboard-utente-block-2-2 .view-id-dashboard_utente .view-content .views-row .views-field-nothing .field-content a {
+  margin: 0;
+  border-radius: 25px;
+  border-color: #3BAA35;
+  background-color: #3BAA35;
+  color: #FFFFFF;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+  padding: 15px 34.84px 16px 35.88px;
+  text-transform: uppercase;
+  border: 1px solid transparent;
+  text-decoration: none;
+  max-width: 250px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-dashboard-utente-block-2-2 .view-id-dashboard_utente .view-content .views-row .views-field-nothing .field-content a:hover {
+  background-color: white;
+  border-radius: 25px;
+  border: 1px solid #3BAA35;
+  color: #3BAA35;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-dashboard-utente-block-2-2 .view-id-dashboard_utente .view-content .views-row .views-field-nothing .field-content h2 {
+  color: #007B7C;
+  font-family: Roboto, sans-serif;
+  font-size: 26px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-dashboard-utente-block-2-2 .view-id-dashboard_utente .view-content .views-row .views-field-nothing .field-content p {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-dashboard-utente-block-2-2 .view-id-dashboard_utente .view-content .views-row .views-field-roles-target-id-1 {
+  margin-bottom: 36px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-dashboard-utente-block-2-2 .view-id-dashboard_utente .view-content .views-row .views-field-roles-target-id-1 .field-content {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 {
+  max-width: 750px;
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 35px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-empty {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-bottom: 30px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-header h2 {
+  margin: 0;
+  color: #007B7C;
+  font-family: Roboto, sans-serif;
+  font-size: 26px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-header a {
+  margin: 0;
+  border-radius: 25px;
+  border-color: #3BAA35;
+  background-color: #3BAA35;
+  color: #FFFFFF;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+  padding: 15px 34.84px 16px 35.88px;
+  text-transform: uppercase;
+  border: 1px solid transparent;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-header a:hover {
+  background-color: white;
+  border-radius: 25px;
+  border: 1px solid #3BAA35;
+  color: #3BAA35;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-content table {
+  margin-bottom: 64px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-content table tbody tr {
+  position: relative;
+  border-top: 1px solid #ede8e8;
+  height: 60px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-content table tbody tr .views-field-nothing, .path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-content table tbody tr .views-field-nothing-1, .path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-content table tbody tr .views-field-nothing-2 {
+  vertical-align: middle;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-content table tbody tr .views-field-nothing a, .path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-content table tbody tr .views-field-nothing-1 a, .path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-content table tbody tr .views-field-nothing-2 a {
+  font-size: 13px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-content table tbody tr .views-field-nothing .view-node-button, .path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-content table tbody tr .views-field-nothing-1 .view-node-button, .path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-content table tbody tr .views-field-nothing-2 .view-node-button {
+  color: #3BAA35;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-content table tbody tr .views-field-nothing .delete-button, .path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-content table tbody tr .views-field-nothing-1 .delete-button, .path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-content table tbody tr .views-field-nothing-2 .delete-button {
+  color: #C80D0D;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-content table tbody tr .views-field-nothing .edit-button, .path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-content table tbody tr .views-field-nothing-1 .edit-button, .path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-content table tbody tr .views-field-nothing-2 .edit-button {
+  color: #686868;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-content table tbody tr .views-field-title {
+  vertical-align: middle;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-content table tbody tr .views-field-title a {
+  color: #333333;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 24px;
+  text-decoration: none;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-views-block-lista-degli-annunci-block-1-2 .view-id-lista_degli_annunci .view-content table tbody tr .views-field-created {
+  opacity: 0.7;
+  color: #616E76;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 20px;
+  vertical-align: middle;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content {
+  max-width: 750px;
+  margin: 0 auto;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-account {
+  max-width: 100%;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-account .js-form-item {
+  margin: 0;
+  max-width: 330px;
+  margin-bottom: 30px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-account .js-form-item label {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-account .js-form-item input {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  border-radius: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-account .js-form-item .description {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 4px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-account .js-form-item .description a {
+  color: #00CF86;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-account div#edit-pass {
+  max-width: unset;
+  max-width: 750px;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-account div#edit-pass .js-form-item {
+  max-width: unset;
+  max-width: 750px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-account div#edit-pass .js-form-item label {
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-account div#edit-pass .js-form-item input {
+  max-width: 330px;
+  width: 100%;
+  border-radius: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-account div#edit-pass .js-form-item .password-strength {
+  max-width: 313px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-account div#edit-pass .js-form-item .password-strength .password-strength__meter {
+  order: 2;
+  max-width: 245px;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-account div#edit-pass .js-form-item .password-strength .password-strength__title {
+  order: 1;
+  color: #00CF86;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-account div#edit-pass .js-form-item .js-password-confirm-message {
+  color: #00CF86;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  max-width: 313px;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-account div#edit-pass .password-suggestions {
+  border: 0;
+  padding: 0;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-account div#edit-pass .edit-pass--description {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--widget-image-image {
+  max-width: unset;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--widget-image-image div .js-form-item {
+  border: 0;
+  max-width: 330px;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--widget-image-image div .js-form-item label {
+  padding: 0;
+  background-color: white;
+  border: 0;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--widget-image-image div .js-form-item .js-form-managed-file {
+  padding: 0;
+  margin-bottom: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--widget-image-image div .js-form-item .js-form-managed-file .image-widget-data input {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  border-radius: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--widget-image-image div .js-form-item .js-form-managed-file .image-widget-data .js-form-submit {
+  margin: 0;
+  border-radius: 25px;
+  border-color: #3BAA35;
+  background-color: #3BAA35;
+  color: #FFFFFF;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+  margin-left: 20px;
+  text-transform: uppercase;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--widget-image-image div .js-form-item #edit-user-picture-0--description {
+  padding: 0;
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-bottom: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--widget-image-image div .js-form-item .description {
+  padding: 0;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 4px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-language {
+  margin: 0;
+  max-width: unset;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-language .js-form-item {
+  max-width: 330px;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-language .js-form-item label {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-language .js-form-item select {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  border-radius: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-language .js-form-item .description {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 4px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-timezone {
+  margin: 0;
+  max-width: unset;
+  width: 100%;
+  border: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-timezone summary {
+  background-color: white !important;
+  border: 0;
+  color: #616E76;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+  padding: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-timezone .details-wrapper {
+  max-width: 330px;
+  width: 100%;
+  padding: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-timezone .details-wrapper .js-form-item label {
+  color: #616E76;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-timezone .details-wrapper .js-form-item select {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-timezone .details-wrapper .js-form-item .description {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 4px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-comment-notify-settings {
+  margin: 0;
+  max-width: unset;
+  width: 100%;
+  border: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-comment-notify-settings summary {
+  background-color: white !important;
+  border: 0;
+  color: #616E76;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+  padding: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-comment-notify-settings .details-wrapper {
+  padding: 0;
+  max-width: 330px;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-comment-notify-settings .details-wrapper .js-form-item {
+  margin-bottom: 30px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-comment-notify-settings .details-wrapper .js-form-item label {
+  color: #616E76;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-comment-notify-settings .details-wrapper .js-form-item input {
+  margin: 0;
+  border-radius: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-comment-notify-settings .details-wrapper .js-form-item select {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  border-radius: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-comment-notify-settings .details-wrapper .js-form-item .description {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin: 0;
+  margin-top: 4px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-string {
+  max-width: 330px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-string .js-form-item {
+  margin: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-string .js-form-item label {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-string .js-form-item input {
+  margin: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-string .js-form-item input {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-string .js-form-item .description {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 4px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-datetime {
+  max-width: 330px;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-datetime h4 {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-datetime .js-form-item {
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-datetime .js-form-item input {
+  margin: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-datetime .js-form-item input {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  width: 100%;
+  border: 1px solid #ced4da;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-datetime .description {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin: 0;
+  margin-top: 4px;
+  display: none;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-address {
+  max-width: 750px;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-address .js-form-wrapper {
+  border: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-address .js-form-wrapper summary {
+  background-color: white !important;
+  border: 0;
+  color: #616E76;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+  padding: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-address .js-form-wrapper .details-wrapper {
+  padding: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-address .js-form-wrapper .details-wrapper div .js-form-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-address .js-form-wrapper .details-wrapper div .js-form-wrapper .js-form-wrapper {
+  max-width: 330px;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-address .js-form-wrapper .details-wrapper div .js-form-wrapper .js-form-item {
+  max-width: 330px;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-address .js-form-wrapper .details-wrapper div .js-form-wrapper .js-form-item label {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-address .js-form-wrapper .details-wrapper div .js-form-wrapper .js-form-item input {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-address .js-form-wrapper .details-wrapper div .js-form-wrapper .address-container-inline {
+  max-width: 750px;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-address .js-form-wrapper .details-wrapper div .js-form-wrapper .address-container-inline .js-form-item {
+  margin: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-address .js-form-wrapper .details-wrapper div .js-form-wrapper .address-container-inline .js-form-item label {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-address .js-form-wrapper .details-wrapper div .js-form-wrapper .address-container-inline .js-form-item input {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-address .js-form-wrapper .details-wrapper .js-form-item label {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-address .js-form-wrapper .details-wrapper .js-form-item input {
+  margin: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-address .js-form-wrapper .details-wrapper .js-form-item select {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  border-radius: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-address .js-form-wrapper .details-wrapper .js-form-item .description {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin: 0;
+  margin-top: 4px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-field-provincia {
+  max-width: 330px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-field-provincia .js-form-item {
+  margin: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-field-provincia .js-form-item label {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-field-provincia .js-form-item input {
+  margin: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-field-provincia .js-form-item select {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-field-provincia .js-form-item .description {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 4px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles {
+  max-width: 330px;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-item label {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-item input {
+  margin: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-item select {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-telephone {
+  max-width: 330px;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-telephone .js-form-item {
+  margin: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-telephone .js-form-item label {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--type-telephone .js-form-item input {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-field-genere {
+  max-width: 330px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-field-genere .js-form-item {
+  max-width: 330px;
+  width: 100%;
+  margin: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-field-genere .js-form-item label {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-field-genere .js-form-item select {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles {
+  max-width: 750px;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper {
+  border: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper summary {
+  background-color: white !important;
+  border: 0;
+  color: #616E76;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+  padding: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper .details-wrapper {
+  padding: 0;
+  max-width: 750px;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper .details-wrapper .field--type-entity-reference fieldset {
+  border: 0;
+  background-color: rgba(0, 123, 124, 0.0588235294);
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper .details-wrapper .field--type-entity-reference fieldset legend {
+  border: 0;
+  background-color: unset;
+  padding: 34px 38px;
+  color: #616E76;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper .details-wrapper .field--type-entity-reference fieldset .fieldset-wrapper {
+  padding: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper .details-wrapper .field--type-entity-reference fieldset .fieldset-wrapper .form-checkboxes {
+  padding: 0px 47px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-bottom: 30px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper .details-wrapper .field--type-entity-reference fieldset .fieldset-wrapper .form-checkboxes .js-form-item {
+  max-width: 50%;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper .details-wrapper .field--type-entity-reference fieldset .fieldset-wrapper .form-checkboxes .js-form-item input {
+  padding: 10px 10px;
+  margin-right: 5px;
+  background-color: unset;
+  border: 2px solid #616E76;
+  border-radius: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper .details-wrapper .field--type-entity-reference fieldset .fieldset-wrapper .form-checkboxes .js-form-item input[type=checkbox] {
+  display: none;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper .details-wrapper .field--type-entity-reference fieldset .fieldset-wrapper .form-checkboxes .js-form-item input[type=checkbox] + label:before {
+  content: "";
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border: 2px solid #616E76;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper .details-wrapper .field--type-entity-reference fieldset .fieldset-wrapper .form-checkboxes .js-form-item input[type=checkbox]:checked + label:before {
+  content: "✓";
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper .details-wrapper .field--type-string {
+  max-width: 100%;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper .details-wrapper .field--type-datetime {
+  max-width: 100%;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper .details-wrapper .field--type-datetime fieldset {
+  border: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper .details-wrapper .field--type-datetime fieldset legend {
+  border: 0;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+  padding: 0;
+  background-color: unset;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper .details-wrapper .field--type-datetime fieldset .fieldset-wrapper {
+  padding: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper .details-wrapper .field--type-datetime fieldset .fieldset-wrapper .form-checkboxes {
+  padding: 0px 47px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-bottom: 30px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper .details-wrapper .field--type-datetime fieldset .fieldset-wrapper .form-checkboxes .js-form-item {
+  max-width: 50%;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper .details-wrapper .field--type-datetime fieldset .fieldset-wrapper .form-checkboxes .js-form-item input {
+  padding: 10px 10px;
+  margin-right: 5px;
+  background-color: unset;
+  border: 2px solid #616E76;
+  border-radius: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper .details-wrapper .js-form-item label {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper .details-wrapper .js-form-item input {
+  margin: 0;
+  border-radius: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper .details-wrapper .js-form-item select {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-dottore-profiles .js-form-wrapper .details-wrapper .js-form-item .description {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin: 0;
+  margin-top: 4px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-field-tipologia-utente {
+  max-width: 100%;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-field-tipologia-utente .js-form-item {
+  margin: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-field-tipologia-utente .js-form-item label {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-field-tipologia-utente .js-form-item select {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form .field--name-field-tipologia-utente .js-form-item .description {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 4px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-actions {
+  margin-bottom: 64px;
+  margin-top: 30px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-actions input {
+  border-radius: 25px;
+  background-color: #3BAA35;
+  border-color: #3BAA35;
+  color: #FFFFFF;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+  padding: 15px 34px 16px 35px;
+  text-transform: uppercase;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-form #edit-actions input:hover {
+  background-color: white;
+  border-radius: 25px;
+  border: 1px solid #3BAA35;
+  color: #3BAA35;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-login-form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border-bottom: 1px solid #D7D7D7;
+  position: relative;
+  margin-top: 124px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-login-form::before {
+  content: "Accedi";
+  display: block;
+  width: 750px;
+  position: absolute;
+  top: -70px;
+  color: #333333;
+  font-family: Roboto, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 48px;
+  text-align: center;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-login-form .js-form-item {
+  max-width: 330px;
+  margin: 0;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-login-form .js-form-item label {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-login-form .js-form-item input {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-login-form .js-form-item .description {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 4px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-login-form .js-form-item .description a {
+  color: #00CF86;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-login-form #edit-actions {
+  margin-bottom: 64px;
+  margin-top: 75px;
+  text-align: center;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-login-form #edit-actions input {
+  border-radius: 25px;
+  background-color: #3BAA35;
+  border-color: #3BAA35;
+  color: #FFFFFF;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+  padding: 15px 34px 16px 35px;
+  text-transform: uppercase;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-login-form #edit-actions input:hover {
+  background-color: white;
+  border-radius: 25px;
+  border: 1px solid #3BAA35;
+  color: #3BAA35;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border-bottom: 1px solid #D7D7D7;
+  position: relative;
+  margin-top: 64px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form::after {
+  content: "Registrati gratuitamente a Infodent";
+  color: #333333;
+  font-family: Roboto, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 48px;
+  text-align: center;
+  display: block;
+  width: 750px;
+  position: absolute;
+  top: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form::before {
+  content: "Registrandoti potrai usufruire del servizio annunci gratuito, studiato per gestire i tuoi annunci in modo semplice e immediato.";
+  color: #333333;
+  font-family: Roboto, sans-serif;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: 35px;
+  text-align: center;
+  display: block;
+  width: 750px;
+  position: absolute;
+  top: 60px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-account {
+  margin-top: 175px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-account .js-form-item {
+  max-width: 100%;
+  margin: 0;
+  width: 100%;
+  margin-bottom: 25px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-account .js-form-item label {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-account .js-form-item input {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-account .js-form-item .description {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 4px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-account .js-form-item .description a {
+  color: #00CF86;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-account #edit-pass {
+  margin-bottom: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-account #edit-pass .js-form-item {
+  margin: 0;
+  display: flex;
+  max-width: 100%;
+  width: 100%;
+  flex-wrap: wrap;
+  justify-content: end;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-account #edit-pass .js-form-item label {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-account #edit-pass .js-form-item input {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  max-width: 100%;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-account #edit-pass .js-form-item .password-strength {
+  max-width: 270px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-account #edit-pass .js-form-item .password-strength .password-strength__meter {
+  order: 2;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-account #edit-pass .js-form-item .password-strength .password-strength__title {
+  color: #00CF86;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 5px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-account #edit-pass .js-form-item .js-password-confirm-message {
+  color: #00CF86;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  max-width: 270px;
+  width: 100%;
+  margin-top: 5px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-account #edit-pass .password-suggestions {
+  padding: 0;
+  border: 0;
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-account #edit-pass .description {
+  display: none;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-account #edit-pass .js-form-item:first-child {
+  margin-bottom: 25px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form .form-wrapper {
+  max-width: 100%;
+  width: 100%;
+  border: 0;
+  margin-bottom: 25px;
+  margin-top: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form .form-wrapper .js-form-item {
+  max-width: 100%;
+  width: 100%;
+  margin: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form .form-wrapper .js-form-item label {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form .form-wrapper .js-form-item input {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  width: 100%;
+  border: 1px solid #ced4da;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form .form-wrapper .js-form-item input:focus {
+  box-shadow: unset;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form .form-wrapper .js-form-item #edit-field-privacy-value {
+  padding: 5px 9px;
+  width: unset;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form .form-wrapper .js-form-item .description {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 4px;
+  margin-left: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form .form-wrapper .js-form-item select {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form .form-wrapper .js-form-item select:focus {
+  box-shadow: unset;
+  border-color: #ced4da;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form .form-wrapper .details-wrapper {
+  padding: 0;
+  margin-bottom: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form .form-wrapper .description {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 4px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form .form-wrapper h4 {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  font-weight: unset;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form .field--widget-boolean-checkbox .js-form-item {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form .field--widget-boolean-checkbox .js-form-item label {
+  display: none;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form .field--widget-boolean-checkbox .js-form-item input {
+  margin-right: 10px;
+  padding: 4px 9px;
+  width: unset;
+  margin-right: 10px;
+  border-radius: 4px;
+  border: 2px solid #5C6F82;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-field-indirizzo-wrapper {
+  margin-bottom: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-field-indirizzo-wrapper details {
+  margin-bottom: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-field-indirizzo-wrapper details .details-wrapper {
+  margin-bottom: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-field-indirizzo-wrapper details .details-wrapper #field-indirizzo-0-address-ajax-wrapper .form-wrapper .form-item {
+  margin-bottom: 25px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-field-indirizzo-wrapper details .details-wrapper #field-indirizzo-0-address-ajax-wrapper .form-wrapper #edit-field-indirizzo-0-address-container1 {
+  margin-bottom: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-field-indirizzo-wrapper details .details-wrapper #field-indirizzo-0-address-ajax-wrapper .form-wrapper #edit-field-indirizzo-0-address-container1 .js-form-item-field-indirizzo-0-address-locality {
+  margin-bottom: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form .field--type-telephone {
+  margin-bottom: 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form .field--name-field-telefono .js-form-item {
+  margin-top: 25px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-actions {
+  text-align: center;
+  margin: 64px 0;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-actions input {
+  border-radius: 25px;
+  background-color: #3BAA35;
+  border-color: #3BAA35;
+  color: #FFFFFF;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+  padding: 15px 34px 16px 35px;
+  text-transform: uppercase;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-register-form #edit-actions input:hover {
+  background-color: white;
+  border-radius: 25px;
+  border: 1px solid #3BAA35;
+  color: #3BAA35;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-pass {
+  margin-top: 64px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-pass .js-form-item {
+  margin: 0;
+  max-width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-pass .js-form-item label {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-pass .js-form-item input {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-pass p {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 4px;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-pass #edit-actions {
+  margin-bottom: 64px;
+  margin-top: 40px;
+  text-align: center;
+  width: 100%;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-pass #edit-actions input {
+  border-radius: 25px;
+  background-color: #3BAA35;
+  border-color: #3BAA35;
+  color: #FFFFFF;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+  padding: 15px 34px 16px 35px;
+  text-transform: uppercase;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #user-pass #edit-actions input:hover {
+  background-color: white;
+  border-radius: 25px;
+  border: 1px solid #3BAA35;
+  color: #3BAA35;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-passwordreset {
+  position: relative;
+}
+.path-user .content-region-external-wrapper .content-section .region-content #block-passwordreset .text-formatted a {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  text-decoration: none;
+  position: absolute;
+  right: 200px;
+  bottom: 145px;
+}
+.path-user .pre-footer-external-container .region-pre-footer-content #block-registerlink {
+  max-width: 438px;
+  width: 100%;
+  margin: 0 auto;
+  margin-bottom: 74px;
+}
+.path-user .pre-footer-external-container .region-pre-footer-content #block-registerlink .text-formatted {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: #333333;
+  font-family: Roboto, sans-serif;
+  font-size: 35px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 42px;
+  text-align: center;
+}
+.path-user .pre-footer-external-container .region-pre-footer-content #block-registerlink .text-formatted a {
+  border-radius: 25px;
+  background-color: #3BAA35;
+  border-color: #3BAA35;
+  color: #FFFFFF;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+  padding: 15px 34px 16px 35px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.path-user .pre-footer-external-container .region-pre-footer-content #block-registerlink .text-formatted a:hover {
+  background-color: white;
+  border-radius: 25px;
+  border: 1px solid #3BAA35;
+  color: #3BAA35;
+}
+.path-user .pre-footer-external-container .region-pre-footer-content #block-loginlink {
+  max-width: 438px;
+  width: 100%;
+  margin: 0 auto;
+}
+.path-user .pre-footer-external-container .region-pre-footer-content #block-loginlink .text-formatted {
+  margin-top: 50px;
+  margin-bottom: 64px;
+  color: #333333;
+  font-family: Roboto, sans-serif;
+  font-size: 35px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 42px;
+  text-align: center;
+}
+.path-user .pre-footer-external-container .region-pre-footer-content #block-loginlink .text-formatted a {
+  border-radius: 25px;
+  background-color: #3BAA35;
+  border-color: #3BAA35;
+  color: #FFFFFF;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+  padding: 15px 50px 16px 50px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.path-user .pre-footer-external-container .region-pre-footer-content #block-loginlink .text-formatted a:hover {
+  background-color: white;
+  border-radius: 25px;
+  border: 1px solid #3BAA35;
+  color: #3BAA35;
+}
+
+body.user-edit #block-b5infodent-local-tasks .tabs .tabs-primary ul li .menuItemAddAnnounce {
+  display: none;
+}
+
+.path-user:not(.role-administrator) #block-b5infodent-local-tasks .tabs .tabs-primary ul li {
+  max-width: unset;
+  width: auto;
+  margin-right: 50px;
+}
+@media screen and (max-width: 767px) {
+  .path-user:not(.role-administrator) #block-b5infodent-local-tasks .tabs .tabs-primary ul li {
+    margin: 0;
+  }
+}
+@media screen and (max-width: 767px) {
+  .path-user:not(.role-administrator) #block-b5infodent-local-tasks .tabs .tabs-primary ul li.menuItemAddAnnounce {
+    margin: 0;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    justify-content: center;
+    padding: 18px 0;
+    background-color: #F9F9F9;
+    z-index: 1;
+    display: flex;
+  }
+  .path-user:not(.role-administrator) #block-b5infodent-local-tasks .tabs .tabs-primary ul li.menuItemAddAnnounce > a {
+    background-color: #3BAA35;
+    padding: 16px 35px;
+    border-radius: 30px;
+    flex-grow: unset;
+  }
+  .path-user:not(.role-administrator) #block-b5infodent-local-tasks .tabs .tabs-primary ul li.menuItemAddAnnounce > a > .button-add-announce {
+    justify-content: center;
+    color: white;
+  }
+}
+.path-user:not(.role-administrator) #block-b5infodent-local-tasks .tabs .tabs-primary ul li:nth-child(2) {
+  display: none;
+}
+.path-user:not(.role-administrator) #block-b5infodent-local-tasks .tabs .tabs-primary ul li:last-child {
+  margin-right: 0;
+  margin-left: auto;
+}
+@media screen and (max-width: 767px) {
+  .path-user:not(.role-administrator) #block-b5infodent-local-tasks .tabs .tabs-primary ul li:last-child {
+    margin: 0;
+  }
+}
+@media screen and (max-width: 575.98px) {
+  .path-user:not(.role-administrator) #block-b5infodent-local-tasks .tabs .tabs-primary ul li {
+    display: block;
+  }
+}
+
+.user-logged-in .region-breadcrumb #block-b5infodent-local-tasks .tabs .tabs-primary ul li {
+  max-width: 10%;
+}
+.user-logged-in .region-breadcrumb #block-b5infodent-local-tasks .tabs .tabs-primary ul li:nth-child(4) {
+  max-width: 60%;
+}
+.user-logged-in .region-breadcrumb #block-b5infodent-local-tasks .tabs .tabs-primary ul li:nth-child(4) a p {
+  justify-content: flex-end;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content {
+  padding: 0;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form::before {
+  content: "Inserisci il tuo annuncio in pochi step";
+  color: #333333;
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 48px;
+  display: block;
+  text-align: center;
+  margin-bottom: 30px;
+}
+@media screen and (max-width: 576px) {
+  .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form {
+    padding: 0 15px;
+  }
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form {
+  max-width: 700px;
+  width: 100%;
+  margin: 50px auto 0;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form div#edit-field-prezzo-wrapper .js-form-item, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form div#edit-field-prezzo-wrapper .js-form-item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form div#edit-field-prezzo-wrapper .js-form-item label, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form div#edit-field-prezzo-wrapper .js-form-item label {
+  order: 1;
+  width: 100%;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form div#edit-field-prezzo-wrapper .js-form-item input, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form div#edit-field-prezzo-wrapper .js-form-item input {
+  order: 2;
+  width: 99%;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form div#edit-field-prezzo-wrapper .js-form-item .field-prefix, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form div#edit-field-prezzo-wrapper .js-form-item .field-prefix {
+  order: 3;
+  width: 1%;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form div#edit-field-categoria-merceologica-wrapper .select-wrapper, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form div#edit-field-categoria-merceologica-wrapper .select-wrapper {
+  width: 100%;
+}
+@media screen and (max-width: 768px) {
+  .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form div#edit-field-immagine-principale-wrapper .image-widget-data, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form div#edit-field-immagine-principale-wrapper .image-widget-data {
+    display: flex;
+  }
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form div#edit-field-immagine-principale-wrapper::before, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form div#edit-field-immagine-principale-wrapper::before {
+  content: "Aggiungi altre informazioni che gli altri utenti vogliono sapere";
+  color: #333333;
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 48px;
+  display: block;
+  text-align: center;
+  margin: 64px 0 30px;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form div#edit-field-immagine-principale-wrapper summary, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form div#edit-field-immagine-principale-wrapper summary {
+  color: #616E76;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form .form-wrapper, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form .form-wrapper {
+  width: 100%;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form .form-wrapper .js-form-item label, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form .form-wrapper .js-form-item label {
+  color: #616E76;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+  display: block;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form .form-wrapper .js-form-item input, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form .form-wrapper .js-form-item input {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form .form-wrapper .js-form-item .description, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form .form-wrapper .js-form-item .description {
+  display: none;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form .form-wrapper .js-form-item .description a, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form .form-wrapper .js-form-item .description a {
+  color: #00CF86;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form .form-wrapper .js-form-item select, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form .form-wrapper .js-form-item select {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form .form-wrapper .js-form-item .js-filter-wrapper, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form .form-wrapper .js-form-item .js-filter-wrapper {
+  border: 0;
+  padding: 0;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form .form-wrapper .js-form-item .js-filter-wrapper .filter-help, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form .form-wrapper .js-form-item .js-filter-wrapper .filter-help {
+  display: none;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form .form-wrapper .js-form-item .js-filter-wrapper .js-filter-guidelines .filter-guidelines-item, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form .form-wrapper .js-form-item .js-filter-wrapper .js-filter-guidelines .filter-guidelines-item {
+  color: #616E76;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form .form-wrapper .js-form-item .js-filter-wrapper .js-filter-guidelines .filter-guidelines-item ul, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form .form-wrapper .js-form-item .js-filter-wrapper .js-filter-guidelines .filter-guidelines-item ul {
+  list-style: none;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form .form-wrapper .js-form-item .form-textarea-wrapper textarea, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form .form-wrapper .js-form-item .form-textarea-wrapper textarea {
+  padding: 0;
+  border-radius: 0;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form .form-wrapper .js-form-item .form-textarea-wrapper .counter, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form .form-wrapper .js-form-item .form-textarea-wrapper .counter {
+  color: #616E76;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 10px;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form #edit-field-luogo-annuncio-wrapper::before, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form #edit-field-luogo-annuncio-wrapper::before {
+  content: "Dove?";
+  color: #333333;
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 48px;
+  display: block;
+  text-align: center;
+  margin: 64px 0 30px;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form #edit-field-luogo-annuncio-wrapper .js-form-item, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form #edit-field-luogo-annuncio-wrapper .js-form-item {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form #edit-field-luogo-annuncio-wrapper .js-form-item label, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form #edit-field-luogo-annuncio-wrapper .js-form-item label {
+  display: none;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form #edit-field-luogo-annuncio-wrapper .js-form-item .select-wrapper, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form #edit-field-luogo-annuncio-wrapper .js-form-item .select-wrapper {
+  margin: 0;
+  width: 100%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form #edit-field-luogo-annuncio-wrapper .js-form-item .select-wrapper label, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form #edit-field-luogo-annuncio-wrapper .js-form-item .select-wrapper label {
+  display: block;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form #edit-field-luogo-annuncio-wrapper .js-form-item .select-wrapper select, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form #edit-field-luogo-annuncio-wrapper .js-form-item .select-wrapper select {
+  border-radius: 0;
+  padding: 15px 10px;
+  color: #616E76;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form #edit-field-luogo-annuncio-wrapper .js-form-item .select-wrapper:last-child, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form #edit-field-luogo-annuncio-wrapper .js-form-item .select-wrapper:last-child {
+  margin: 0 !important;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form #edit-field-categoria-annuncio-wrapper .js-form-item, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form #edit-field-categoria-annuncio-wrapper .js-form-item {
+  margin-bottom: 0;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form #edit-field-categoria-annuncio-wrapper .js-form-item label, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form #edit-field-categoria-annuncio-wrapper .js-form-item label {
+  width: 100%;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form #edit-field-categoria-annuncio-wrapper .js-form-item .select-wrapper, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form #edit-field-categoria-annuncio-wrapper .js-form-item .select-wrapper {
+  width: 100%;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form #edit-actions, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form #edit-actions {
+  margin-bottom: 64px;
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form #edit-actions input, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form #edit-actions input {
+  border-radius: 25px;
+  background-color: #3BAA35;
+  border-color: #3BAA35;
+  color: #FFFFFF;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+  padding: 15px 34px 16px 35px;
+  text-transform: uppercase;
+  margin-right: 26.5px;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form #edit-actions input:hover, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form #edit-actions input:hover {
+  background-color: white;
+  border-radius: 25px;
+  border: 1px solid #3BAA35;
+  color: #3BAA35;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form #edit-actions input:last-child, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form #edit-actions input:last-child {
+  background-color: #616E76;
+  border-color: #616E76;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form #edit-actions input:last-child:hover, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form #edit-actions input:last-child:hover {
+  background-color: white;
+  border-radius: 25px;
+  border: 1px solid #616E76;
+  color: #616E76;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #node-annuncio-form .js-form-type-vertical-tabs, .user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content form#node-annuncio-edit-form .js-form-type-vertical-tabs {
+  display: none;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #profile-dottore-add-form {
+  padding: 30px;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-top: 64px;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #profile-dottore-add-form .js-form-item-help {
+  text-align: center;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #profile-dottore-add-form .js-form-item-help h2 {
+  color: #333333;
+  font-family: Roboto;
+  font-size: 33px;
+  font-weight: bold;
+  letter-spacing: -0.92px;
+  line-height: 27px;
+  text-align: center;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #profile-dottore-add-form .js-form-item-help h3 {
+  color: #333333;
+  font-size: 23px;
+  font-weight: bold;
+  letter-spacing: -0.92px;
+  line-height: 27px;
+  text-align: center;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #profile-dottore-add-form .js-form-item-help p {
+  display: none;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #profile-dottore-add-form .field--type-entity-reference fieldset .fieldset-wrapper {
+  text-align: left;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #profile-dottore-add-form .field--name-field-citta-iscrizione-ordine .js-form-item {
+  text-align: left;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #profile-dottore-add-form .field--name-field-citta-iscrizione-ordine .js-form-item label {
+  color: #616E76;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #profile-dottore-add-form .field--name-field-citta-iscrizione-ordine .js-form-item select {
+  color: #616E76;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  padding: 16px 38px 16px 8px;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #profile-dottore-add-form .field--name-field-partita-iva .js-form-item {
+  text-align: left;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #profile-dottore-add-form .field--name-field-partita-iva .js-form-item label {
+  color: #616E76;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #profile-dottore-add-form .field--name-field-partita-iva .js-form-item input {
+  color: #616E76;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  padding: 16px 38px 16px 8px;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #profile-dottore-add-form .field--name-field-partita-iva .js-form-item .description {
+  opacity: 0.9;
+  color: #5A768A;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 4px;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #profile-dottore-add-form .field--type-datetime fieldset {
+  border: 0;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #profile-dottore-add-form .field--type-datetime fieldset legend {
+  border: 0 !important;
+  padding: 0 !important;
+  background: white !important;
+  color: #616E76;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #profile-dottore-add-form .field--type-datetime fieldset .fieldset-wrapper {
+  padding: 0 !important;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #profile-dottore-add-form .field--type-datetime fieldset .fieldset-wrapper div .js-form-item {
+  width: 100%;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #profile-dottore-add-form .field--type-datetime fieldset .fieldset-wrapper div .js-form-item label {
+  color: #616E76;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #profile-dottore-add-form .field--type-datetime fieldset .fieldset-wrapper div .js-form-item select {
+  color: #616E76;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  padding: 16px 38px 16px 8px;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #profile-dottore-add-form #edit-actions {
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #profile-dottore-add-form #edit-actions input {
+  margin: 0;
+  border-radius: 25px;
+  border-color: #3BAA35;
+  background-color: #3BAA35;
+  color: #FFFFFF;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+  padding: 15px 34.84px 16px 35.88px;
+  text-transform: uppercase;
+  border: 1px solid transparent;
+  text-decoration: none;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #profile-dottore-add-form #edit-actions input:hover {
+  background-color: white;
+  border-radius: 25px;
+  border: 1px solid #3BAA35;
+  color: #3BAA35;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content div#block-useremailverificationnotification-2 {
+  max-width: 750px;
+  width: 100%;
+  margin: 0 auto;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content div#block-useremailverificationnotification-2 h2 {
+  margin: 0;
+  color: #007B7C;
+  font-family: Roboto, sans-serif;
+  font-size: 26px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-bottom: 20px;
+}
+.user-logged-in .content-region-external-wrapper .content-section .region-content div#block-useremailverificationnotification-2 p {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+.user-logged-in .ui-dialog .ui-dialog-titlebar {
+  background-color: white;
+}
+.user-logged-in .ui-dialog .ui-dialog-buttonpane {
+  background-color: white;
+}
+.user-logged-in .ui-dialog .ui-dialog-buttonpane .form-actions button:first-child {
+  color: #FFFFFF;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 15px 34px 16px 35px;
+  border-radius: 25px;
+  background-color: #3BAA35;
+  text-decoration: none;
+  border-color: #3BAA35;
+}
+.user-logged-in .ui-dialog .ui-dialog-buttonpane .form-actions button:last-child {
+  color: #FFFFFF;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 15px 34px 16px 35px;
+  border-radius: 25px;
+  background-color: #529093;
+  text-decoration: none;
+  border-color: #529093;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons {
+  max-width: 800px !important;
+  width: 100% !important;
+  left: calc(50% - 400px) !important;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-titlebar {
+  border: 0 !important;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-titlebar button .ui-icon-closethick {
+  display: none;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-content {
+  padding: 0;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-content form {
+  padding: 95px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-content form .js-form-item-help {
+  text-align: center;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-content form .js-form-item-help h2 {
+  color: #333333;
+  font-family: Roboto;
+  font-size: 33px;
+  font-weight: bold;
+  letter-spacing: -0.92px;
+  line-height: 27px;
+  text-align: center;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-content form .js-form-item-help h3 {
+  color: #333333;
+  font-family: Roboto;
+  font-size: 23px;
+  font-weight: bold;
+  letter-spacing: -0.92px;
+  line-height: 27px;
+  text-align: center;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-content form .js-form-item-help p {
+  display: none;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-content form .field--type-entity-reference fieldset .fieldset-wrapper {
+  text-align: left;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-content form .field--name-field-citta-iscrizione-ordine .js-form-item {
+  text-align: left;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-content form .field--name-field-citta-iscrizione-ordine .js-form-item label {
+  color: #616E76;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-content form .field--name-field-citta-iscrizione-ordine .js-form-item select {
+  color: #616E76;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  padding: 16px 38px 16px 8px;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-content form .field--name-field-partita-iva .js-form-item {
+  text-align: left;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-content form .field--name-field-partita-iva .js-form-item label {
+  color: #616E76;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-content form .field--name-field-partita-iva .js-form-item input {
+  color: #616E76;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  padding: 16px 38px 16px 8px;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-content form .field--name-field-partita-iva .js-form-item .description {
+  opacity: 0.9;
+  color: #5A768A;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 4px;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-content form .field--type-datetime fieldset {
+  border: 0;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-content form .field--type-datetime fieldset legend {
+  border: 0 !important;
+  padding: 0 !important;
+  background: white !important;
+  color: #616E76;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-content form .field--type-datetime fieldset .fieldset-wrapper {
+  padding: 0 !important;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-content form .field--type-datetime fieldset .fieldset-wrapper div .js-form-item {
+  width: 100%;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-content form .field--type-datetime fieldset .fieldset-wrapper div .js-form-item label {
+  color: #616E76;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-content form .field--type-datetime fieldset .fieldset-wrapper div .js-form-item select {
+  color: #616E76;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  padding: 16px 38px 16px 8px;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-buttonpane {
+  display: flex;
+  justify-content: center;
+  border: 0;
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-buttonpane .form-actions .ui-corner-all {
+  margin: 0;
+  border-radius: 25px;
+  border-color: #3BAA35;
+  background-color: #3BAA35;
+  color: #FFFFFF;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+  padding: 15px 34.84px 16px 35.88px;
+  text-transform: uppercase;
+  border: 1px solid transparent;
+  text-decoration: none;
+}
+.user-logged-in .ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons .ui-dialog-buttonpane .form-actions .ui-corner-all:hover {
+  background-color: white;
+  border-radius: 25px;
+  border: 1px solid #3BAA35;
+  color: #3BAA35;
+}
+
+.path-comment .content-region-external-wrapper .content-section .region-content #block-b5infodent-content article {
+  max-width: 750px;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+.path-comment .content-region-external-wrapper .content-section .region-content #block-b5infodent-content article h2 a {
+  color: #3BAA35;
+  font-family: Roboto, sans-serif;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 20px;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+.path-comment .content-region-external-wrapper .content-section .region-content #block-b5infodent-content article div a {
+  color: #C80D0D;
+  font-size: 17.71px;
+  letter-spacing: 0;
+  line-height: 20px;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+.path-comment .content-region-external-wrapper .content-section .region-content #block-b5infodent-content article footer {
+  padding: 0 !important;
+  display: none;
+}
+.path-comment .content-region-external-wrapper .content-section .region-content #block-b5infodent-content article h3 a {
+  color: #3BAA35;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 20px;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+.path-comment .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #comment-form {
+  max-width: 750px;
+  margin: 0 auto;
+  margin-bottom: 64px;
+}
+.path-comment .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #comment-form .js-form-wrapper .js-form-item .js-form-type-textarea label {
+  color: #616E76;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.path-comment .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #comment-form .js-form-wrapper .js-form-item .js-filter-wrapper {
+  padding: 0;
+  border: 0;
+}
+.path-comment .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #comment-form .js-form-wrapper .js-form-item .js-filter-wrapper .filter-help {
+  display: none;
+}
+.path-comment .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #comment-form .js-form-wrapper .js-form-item .js-filter-wrapper .js-filter-guidelines {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 14px;
+}
+.path-comment .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #comment-form .js-form-type-checkbox {
+  color: #616E76;
+  font-family: Roboto, sans-serif;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 252px;
+  width: 100%;
+}
+.path-comment .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #comment-form .js-form-type-checkbox input {
+  margin: 0;
+}
+.path-comment .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #comment-form #edit-actions input {
+  color: #FFFFFF;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 15px 34px 16px 35px;
+  border-radius: 25px;
+  background-color: #3BAA35;
+  text-decoration: none;
+  border-color: #3BAA35;
+}
+.path-comment .content-region-external-wrapper .content-section .region-content #block-b5infodent-content #comment-form #edit-actions input:hover {
+  background-color: white;
+  border-radius: 25px;
+  border: 1px solid #3BAA35;
+  color: #3BAA35;
+}
+
+/*# sourceMappingURL=user.css.map */

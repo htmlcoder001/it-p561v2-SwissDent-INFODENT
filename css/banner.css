@@ -1,0 +1,20 @@
+/*BANNER BODY SWITCH CSS*/
+.banner-body .field-content{
+  display: flex;
+  justify-content: center;
+}
+
+.banner-body .field-content img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100% !important;
+  width: unset !important;
+}
+
+.banner-body-mobile .field-content a.banner-link{
+  display: flex;
+  justify-content: center;
+}
+
+
